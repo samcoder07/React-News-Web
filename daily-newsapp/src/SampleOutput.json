@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Manish Singh",
+  "title": "India government agency seeks to block Binance and Kraken | TechCrunch",
+  "description": "Financial Intelligence Unit, an Indian government agency which scrutinizes financial transactions, said Thursday nine global crypto exchanges -- including",
+  "url": "https://techcrunch.com/2023/12/28/india-government-agency-seeks-to-block-binance-and-kraken/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/Photo-26-09-2018-13-04-08.jpg?resize=1200,640",
+  "publishedAt": "2023-12-28T17:21:30Z",
+  "content": "Financial Intelligence Unit, an Indian government agency which scrutinizes financial transactions, said Thursday nine global crypto exchanges — including Binance, Kraken, Kucoin and Mexc — are operat… [+1659 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Sean O'Kane",
+  "title": "Xiaomi's first EV is the freshest take on a 'smartphone on wheels' | TechCrunch",
+  "description": "Xiaomi is attempting what others have tried and failed at: incorporating software similar to what is found in our smartphones into a vehicle.",
+  "url": "https://techcrunch.com/2023/12/28/xiaomi-su7-ev-smartphone-software/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/xiaomi-su7.jpeg?resize=1200,900",
+  "publishedAt": "2023-12-28T15:36:30Z",
+  "content": "Chinese smartphone giant Xiaomi has revealed its first electric car, a sharp-looking sedan called the SU7.\r\nSlated to roll out in China next year, it’s another entry into an increasingly-crowded mark… [+3070 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "Why Australia is ripe for VC | TechCrunch",
+  "description": "The addition of new technology sectors into Australia’s landscape could also help attract the necessary capital and business acumen, while creating a more inclusive environment.",
+  "url": "https://techcrunch.com/2023/12/28/why-australia-is-ripe-for-vc/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/australia-2023-main3.jpg?resize=1200,675",
+  "publishedAt": "2023-12-28T15:36:18Z",
+  "content": "Over the past couple of decades, Australia, an island continent of 26 million that became rich by, among other things, mining natural resources, has developed into a modern powerhouse that actively w… [+21569 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Zack Whittaker",
+  "title": "Meet the cyber-criminals of 2023 | TechCrunch",
+  "description": "Indicted, but not forgotten. Meet this year's cyber-criminals.",
+  "url": "https://techcrunch.com/2023/12/28/cyber-criminals-2023/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/cyber-criminals-indicted.jpg?resize=1200,800",
+  "publishedAt": "2023-12-28T13:07:39Z",
+  "content": "Once again we look back at the past year in cybercrime and those who we lost to the law. This year was no different to last: we saw another round of high-profile busts, arrests, sanctions, and prison… [+6736 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "What the demise of Superpedestrian means for the e-scooter industry | TechCrunch",
+  "description": "Superpedestrian's downfall is emblematic of micromobility's problems, like unfavorable city regulations and the bloat from VC funding.",
+  "url": "https://techcrunch.com/2023/12/28/what-the-demise-of-superpedestrian-means-for-the-e-scooter-industry/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-scooter-night.jpg?resize=1200,800",
+  "publishedAt": "2023-12-27T23:44:59Z",
+  "content": "At an all-hands meeting just before Thanksgiving, Superpedestrians CEO Assaf Biderman told staff the electric scooter company was gearing up for fresh funding and a merger. Management would announce … [+16690 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "The Australian VC firm that sponsored California's diversity bill | TechCrunch",
+  "description": "Beyond just giving women money, F5 Collective wants to create generational change for a billion women across India, Southeast Asia and Australia.",
+  "url": "https://techcrunch.com/2023/12/28/f5-collective-vc-firm-australia/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/F5-Collective_2-edit.jpg?resize=1200,675",
+  "publishedAt": "2023-12-27T22:50:43Z",
+  "content": "Access to venture funding for women is poor all over the world, but its particularly concerning in Australia, where less than 1% of all private-sector funding in the country went to solely women-foun… [+3153 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "From graphic design to visual workflows, Canva’s new AI core is changing its business | TechCrunch",
+  "description": "With Canva, generative AI hits different. In fact, it’s hard to imagine a better technology to boost Canva’s user growth and revenue generation.",
+  "url": "https://techcrunch.com/2023/12/28/canva-ai-core-growth/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/Founders-1.jpg?resize=1200,800",
+  "publishedAt": "2023-12-27T22:08:24Z",
+  "content": "Canva has crafted a wildly successful business model on the idea that graphic design should be accessible to everyone. The Australian company has raised $560 million since its founding in 2012, and i… [+3653 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Rebecca Bellan",
+  "title": "Australia's climate tech industry is booming, but it could bust without funds | TechCrunch",
+  "description": "To date, $435 million has been invested into Aussie climate tech startups from international investors.",
+  "url": "https://techcrunch.com/2023/12/28/australia-climate-tech-industry-booming/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/australia-2023-climate.jpg?resize=1200,675",
+  "publishedAt": "2023-12-27T22:07:01Z",
+  "content": "Australia is a land of natural wonders, from the Great Barrier Reef and Daintree Rainforest to Kakadu National Park and the Blue Mountains. But because of the countrys naturally dry and biodiverse cl… [+3277 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Dominic-Madori Davis",
+  "title": "3 years after BLM, here’s who stuck to their diversity commitments | TechCrunch",
+  "description": "A look back at some of the promises made by companies and investors following the Black Lives Matter protests of 2020.",
+  "url": "https://techcrunch.com/2023/12/28/blm-investors-diversity-commitments/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1279750514.jpg?resize=1200,677",
+  "publishedAt": "2023-12-27T19:26:57Z",
+  "content": "Apart from sparking widespread protests and renewing conversation around inequalities in the United States, George Floyds murder in the spring of 2020 also spurred a slew of promises from Corporate A… [+2372 chars]"
+  },
+  {
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Daniel Lereya",
+  "title": "Three steps to take your company out of the one-product mold | TechCrunch",
+  "description": "All products have a life cycle, from development to introduction to growth and maturity. A fantastic product is not enough. To continue accelerating your",
+  "url": "https://techcrunch.com/2023/12/28/three-steps-to-take-your-company-out-of-the-one-product-mold/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-958125096.jpg?resize=1200,800",
+  "publishedAt": "2023-12-26T18:50:10Z",
+  "content": "All products have a life cycle, from development to introduction to growth and maturity. A fantastic product is not enough. To continue accelerating your company’s growth, you must go multi-product.\r… [+2135 chars]"
+  }
+  ]
+  }
