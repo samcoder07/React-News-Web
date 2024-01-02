@@ -4,9 +4,9 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg bg-light">
+        <nav className="navbar navbar-expand-lg bg-light fixed-top">
           <div className="container-fluid">
-            <a className="navbar-brand" to="/">
+            <a className="navbar-brand cursor-pointer" to="/">
               Daily News
             </a>
             <button
