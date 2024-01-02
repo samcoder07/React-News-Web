@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import newsimage from "../components/newsimage.jpg"
 export class NewsUpdate extends Component {
   render() {
     let { title,imageUrl,newsUrl,source,author } = this.props;
@@ -9,7 +9,7 @@ export class NewsUpdate extends Component {
            <div className="card-header bg-warning">
             {source}
            </div>
-          <img src={imageUrl} className="card-img-top" alt="..." height="200px" width="400px" />
+          <img src={!imageUrl?newsimage:imageUrl} className="card-img-top" alt="News Image" height="200px" width="400px" />
           <div className="card-body">
             <div style={{ height:"100px" }}>
             <h5 className="card-title">{title}...</h5>

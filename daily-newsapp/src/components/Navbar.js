@@ -4,7 +4,7 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-expand-lg bg-light fixed-top">
+        <nav className="navbar navbar-expand-lg bg-success fixed-top">
           <div className="container-fluid">
             <a className="navbar-brand cursor-pointer" to="/">
               Daily News
